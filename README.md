@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mdgerber/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mdgerber/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Setting Up a Virtual Machine in Azure](https://github.com/mdgerber/Setting-up-Azure-VMs-and-connecting-via-Remote-Desktop-Display)
+  - [Setting Up a Virtual Machine in Azure and Connecting Via Remote Desktop Display](https://github.com/mdgerber/Setting-up-Azure-VMs-and-connecting-via-Remote-Desktop-Display)
 
 <h2>🤳Connect with me:</h2>
 
